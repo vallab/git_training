@@ -7,6 +7,7 @@ def funny_phrases(words):
             ra.append (i)
 
     return ra
+#useful code-1
 
 
     
